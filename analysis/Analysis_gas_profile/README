@@ -1,0 +1,27 @@
+
+
+This folder contains:
+
+
+--------------------------------
+--------------------------------
+
+1 ) gas widget : 
+
+A wigdet for the study of the  behaviour of the gas profile with time
+
+
+
+--------------------------------
+--------------------------------
+
+
+2) Results widget mcfitting:
+
+
+Algorithm that fits the hydrodinamyc simulation with the help of a montecarlo package and using the kanagawa profile.
+
+--------------------------------
+--------------------------------
+
+
